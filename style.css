@@ -1,0 +1,11 @@
+div{
+    background-color: yellowgreen;
+    padding: 10px;
+    margin: 40px;
+}
+.kutu-1{
+    box-shadow: 10px 10px 10px blue, -10px -10px 5px blue;
+}
+.kutu-2{
+    column-count: 3;
+}
